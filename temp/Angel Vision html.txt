@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en" data-ng-app="website">
+<head>
+    
+    
+            <meta charset="utf-8">
+        <title>AngelVision News</title>
+        <link rel="SHORTCUT ICON" href="/mt-content/uploads/2016/08/av-logo-w-outline-2.ico?_build=1470161976" type="image/vnd.microsoft.icon" />
+
+        
+<link rel="canonical" href="http://www.angelvisiontech.com/news/" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    
+            <link rel="stylesheet" href="/mt-content/assets/css/assets.min.css?_build=1469956300"/>
+        <link rel="stylesheet" href="/mt-content/themes/mt-0142/css/styles.css?_build=1444683020"/>
+        <style>
+@import url(//fonts.googleapis.com/css?family=Cabin:regular,italic,500,500italic,600,600italic,700,700italic|Cabin+Condensed:regular,500,600,700|Julius+Sans+One:regular|Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic|Pacifico:regular&subset=latin,latin-ext,cyrillic,vietnamese,devanagari,cyrillic-ext,greek-ext,greek);
+@import url(//fonts.googleapis.com/css?family=PT+Sans:regular,italic,700,700italic|Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic|Roboto+Condensed:300,300italic,regular,italic,700,700italic|Volkhov:regular,italic,700,700italic&subset=latin,latin-ext,cyrillic,vietnamese,devanagari,cyrillic-ext,greek-ext,greek);
+</style>
+        <link rel="stylesheet" href="/mt-content/assets/styles.css?_build=1470438448" id="moto-website-style"/>
+            
+    
+    
+    
+    
+    
+    
+
+    
+</head>
+<body class="moto-background">
+    
+    
+     
+
+    <div class="page">
+
+        <header id="section-header" class="header moto-section" data-widget="section" data-container="section">
+            <div class="moto-widget moto-widget-container moto-container_header_55ed527c" data-container="container" data-widget="container" data-css-name="moto-container_header_55ed527c"><div class="moto-widget moto-widget-container moto-container_header_55ed7cc7" data-container="container" data-widget="container" data-css-name="moto-container_header_55ed7cc7" data-moto-sticky="{ }"><div class="moto-widget moto-widget-row row-fixed" data-widget="row" data-grid-type="sm"><div class="container-fluid"><div class="row"><div class="moto-cell col-sm-12" data-container="container"><div data-widget-id="wid__menu__58acdd885a455" class="moto-widget moto-widget-menu moto-preset-default moto-align-center moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-preset="default" data-widget="menu">
+            <a href="#" class="moto-widget-menu-toggle-btn"><i class="moto-widget-menu-toggle-btn-icon fa fa-bars"></i></a>
+        <ul class="moto-widget-menu-list moto-widget-menu-list_horizontal">
+            <li class="moto-widget-menu-item">
+    <a href="/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-1 moto-link">Home</a>
+        </li><li class="moto-widget-menu-item">
+    <a href="/company/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-1 moto-widget-menu-link-submenu moto-link">Company<span class="fa moto-widget-menu-link-arrow"></span></a>
+                <ul class="moto-widget-menu-sublist">
+                    <li class="moto-widget-menu-item">
+    <a href="/mt-content/uploads/2015/12/coffee-with-angelvision-webinar-info-sheet.pdf" target="_blank"  data-action="file" class="moto-widget-menu-link moto-widget-menu-link-level-2 moto-link">Intro Webinar</a>
+        </li>
+                    <li class="moto-widget-menu-item">
+    <a href="/angelsights/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-2 moto-link">Reseller Program</a>
+        </li>
+                    <li class="moto-widget-menu-item">
+    <a href="/contacts/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-2 moto-link">Contact Us</a>
+        </li>
+            </ul>
+
+        </li><li class="moto-widget-menu-item">
+    <a href="/services/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-1 moto-widget-menu-link-submenu moto-link">Services<span class="fa moto-widget-menu-link-arrow"></span></a>
+                <ul class="moto-widget-menu-sublist">
+                    <li class="moto-widget-menu-item">
+    <a href="/services/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-2 moto-link">Portfolio</a>
+        </li>
+                    <li class="moto-widget-menu-item">
+    <a href="/services/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-2 moto-link">Sales Videos</a>
+        </li>
+                    <li class="moto-widget-menu-item">
+    <a href="/books/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-2 moto-link">Books &amp; Journals</a>
+        </li>
+            </ul>
+
+        </li><li class="moto-widget-menu-item">
+    <a href="/results/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-1 moto-widget-menu-link-submenu moto-link">Results<span class="fa moto-widget-menu-link-arrow"></span></a>
+                <ul class="moto-widget-menu-sublist">
+                    <li class="moto-widget-menu-item">
+    <a href="/results/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-2 moto-link">Customer ROI Report</a>
+        </li>
+                    <li class="moto-widget-menu-item">
+    <a href="/results/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-2 moto-link">Honors &amp; Awards</a>
+        </li>
+                    <li class="moto-widget-menu-item">
+    <a href="/resources/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-2 moto-link">Sales Resources</a>
+        </li>
+            </ul>
+
+        </li><li class="moto-widget-menu-item">
+    <a href="/news/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-1 moto-widget-menu-link-submenu moto-widget-menu-link-active moto-link">News<span class="fa moto-widget-menu-link-arrow"></span></a>
+                <ul class="moto-widget-menu-sublist">
+                    <li class="moto-widget-menu-item">
+    <a href="/news/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-2 moto-widget-menu-link-active moto-link">Media Recognition</a>
+        </li>
+                    <li class="moto-widget-menu-item">
+    <a href="/news/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-2 moto-widget-menu-link-active moto-link">Press Releases</a>
+        </li>
+                    <li class="moto-widget-menu-item">
+    <a href="/news/"   data-action="page" class="moto-widget-menu-link moto-widget-menu-link-level-2 moto-widget-menu-link-active moto-link">Jobs</a>
+        </li>
+            </ul>
+
+        </li>        </ul>
+    </div></div></div></div></div></div><div class="moto-widget moto-widget-spacer moto-preset-default moto-visible-on_tablet moto-spacing-top-medium moto-spacing-right-zero moto-spacing-bottom-zero moto-spacing-left-zero" data-widget="spacer" data-preset="default" data-spacing="mzzz" data-visible-on="tablet">
+    <div class="moto-widget-spacer-block" style="height:0px"></div>
+</div><div class="moto-widget moto-widget-row row-fixed" data-widget="row" data-grid-type="sm"><div class="container-fluid"><div class="row"><div class="moto-cell col-sm-6 undefined" data-container="container"><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="sm"><div class="container-fluid"><div class="row"><div class="moto-cell col-sm-12 undefined" data-container="container"><div class="moto-widget moto-widget-spacer moto-preset-default moto-visible-on_tablet moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="spacer" data-preset="default" data-spacing="aaaa" data-visible-on="tablet">
+    <div class="moto-widget-spacer-block" style="height:10px"></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default                                                                                                                                                                                                                                                                         moto-spacing-top-small moto-spacing-right-zero moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="szaa">
+    <div class="moto-widget-text-content moto-widget-text-editable moto-text_system_13"><p class="moto-text_system_1"><span style="font-size: 72px;">A</span><span style="font-size: 48px;">NGEL</span><span style="font-size: 72px;">V</span><span style="font-size: 48px;">ISION</span></p></div>
+</div></div></div></div></div></div><div class="moto-cell col-sm-6 undefined" data-container="container"><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="xs"><div class="container-fluid"><div class="row"><div class="moto-cell col-xs-10 undefined" data-container="container"></div><div class="moto-cell col-xs-2 undefined" data-container="container"><div data-widget-id="wid__image__58acdd886292f" class="moto-widget moto-widget-image moto-preset-default moto-align-left moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto " data-preset="default" data-widget="image">
+            <div class="moto-widget-image-link">
+        <img src="/mt-content/uploads/2015/12/inc-500-logo_56649c320d941.jpg" class="moto-widget-image-picture" data-id="235" title=""  alt="" draggable="false">
+    </div>
+        </div></div></div></div></div><div class="moto-widget moto-widget-text moto-preset-default                                                                                                                                                                                                                      moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_normal" style="text-align: right;"><span style="font-size: 22px;"><span style="color: rgb(179, 23, 23);">Call or Text:&nbsp; 503-799-4412</span></span></p></div>
+</div></div></div></div></div><div class="moto-widget moto-widget-spacer moto-preset-default moto-visible-on_tablet moto-spacing-top-zero moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="spacer" data-preset="default" data-spacing="zasa" data-visible-on="tablet">
+    <div class="moto-widget-spacer-block" style="height:12px"></div>
+</div></div>        </header>
+
+        <section id="section-content" class="content page-21 moto-section" data-widget="section" data-container="section">
+            <div class="moto-widget moto-widget-row row-fixed" data-widget="row" data-grid-type="sm"><div class="container-fluid"><div class="row"><div class="moto-cell col-sm-4" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                                                                       moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="masa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_7">MEDIA</p></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default                                                                                                     moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_7">American Marketing Association</p></div>
+</div><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="xs"><div class="container-fluid"><div class="row"><div class="moto-cell col-xs-5" data-container="container"><div data-widget-id="wid__image__58acdd8863900" class="moto-widget moto-widget-image moto-preset-default  moto-spacing-top-small moto-spacing-right-medium moto-spacing-bottom-zero moto-spacing-left-auto wow fadeInLeft" data-preset="default" data-widget="image">
+            <div class="moto-widget-image-link">
+        <img src="/mt-content/uploads/2015/12/awards15_5668868f2e193.png" class="moto-widget-image-picture" data-id="265" title=""  alt="" draggable="false">
+    </div>
+        </div></div><div class="moto-cell col-xs-7" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                                                 moto-spacing-top-small moto-spacing-right-medium moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="smaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10"><span style="color: rgb(9, 135, 202);">Marketer of the Year</span></p><p class="moto-text_system_10"><span style="color: rgb(9, 135, 202);">Lifetime Achievement Award for Excellence in Marketing</span></p></div>
+</div><div data-widget-id="wid__button__58acdd8863f55" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto " data-widget="button" data-preset="default">
+    <a href="/mt-content/uploads/2015/12/angelvision-jingozian-ama-award-7-1-11.pdf"   data-action="file" class="moto-widget-button-link moto-size-medium moto-link"
+         data-size="medium"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">MORE</span></a>
+</div></div></div></div></div><div class="moto-widget moto-widget-text moto-preset-default                                                                                                      moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_11">Michael Jingozian, the founder and CEO of AngelVision Technologies, has received the 2011 Marketer of the Year Award from the American Marketing Association (AMA) of Oregon. The award was presented at the organization’s annual awards banquet, during which Jingozian was called “Gandhi-like in his approach to management and marketing."</p><p><br></p><p class="moto-text_system_11">Upon presenting the award, the AMA tweeted, “This is a leader, a mentor, a role model—and inspiration to all.”</p><p><br></p><p class="moto-text_system_11">Jingozian said, “I’m grateful to the AMA for being honored with this award, but I’m especially indebted to everyone at AngelVision who have enabled me to make my vision for the company become a reality.” Earlier in the evening, AngelVision won the award for Best Single Medium Advertising Campaign -- the category that attracted the most entries in the competition.</p></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default                                                                                 moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="maaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_7">Portland Business Journal</p></div>
+</div><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="xs"><div class="container-fluid"><div class="row"><div class="moto-cell col-xs-5" data-container="container"><div data-widget-id="wid__image__58acdd8864179" class="moto-widget moto-widget-image moto-preset-3 moto-align-left moto-spacing-top-small moto-spacing-right-medium moto-spacing-bottom-small moto-spacing-left-auto wow fadeInLeft" data-preset="3" data-widget="image">
+            <a class="moto-widget-image-link moto-link" href="/mt-content/uploads/2015/12/pbj-article-w-mike.png"   data-action="file">
+        <img src="/mt-content/uploads/2015/12/pbj-article-w-mike.png" class="moto-widget-image-picture" data-id="238" title=""  alt="" draggable="false">
+    </a>
+        </div></div><div class="moto-cell col-xs-7" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                                               moto-spacing-top-small moto-spacing-right-medium moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="smaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10"><span style="color: rgb(6, 140, 211);">AngelVision has been called a “message machine.”&nbsp; Read why this is the case in this feature article from the Portland Business Journal.</span></p></div>
+</div><div data-widget-id="wid__button__58acdd88643d6" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto " data-widget="button" data-preset="default">
+    <a href="/mt-content/uploads/2015/12/pbj-article-w-mike.png"   data-action="file" class="moto-widget-button-link moto-size-medium moto-link"
+         data-size="medium"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">MORE</span></a>
+</div></div></div></div></div><div class="moto-widget moto-widget-text moto-preset-default                                                                               moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_11">In this article you will learn the secrets to our success and how this focus with messaging has led to the rapid sales growth for both our customers and ourselves.</p></div>
+</div><div class="moto-widget moto-widget-spacer moto-preset-default" data-widget="spacer" data-preset="default" data-spacing="">
+    <div class="moto-widget-spacer-block" style="height: 10px;"></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default                                                                                    moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><ol class="moto-text_161"><li class="moto-text_161"><span class="moto-color5_1"><span style="font-size: 14px;">Learn how we craft customer-centric messages – and why these are better at getting people to understand your message and story.</span></span></li><li><span class="moto-color5_1">Learn how we use storytelling, solution selling and neuro-marketing to uncover the fears and motivations that influence consumer behavior and motivate people to take action.</span></li></ol></div>
+</div><div class="moto-widget moto-widget-divider moto-preset-default moto-align-left moto-spacing-top-zero moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="divider_horizontal" data-preset="default" data-spacing="zasa" data-align='{"desktop":"left","tablet":"","mobile-v":"","mobile-h":""}' data-divider-type="horizontal" data-width="100">
+    <hr class="moto-widget-divider-line" style="width: 100%;">
+</div></div><div class="moto-cell col-sm-4" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                                                                             moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-zero" data-widget="text" data-preset="default" data-spacing="masz">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_7">PRESS RELEASES<br></p></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default                                                                   moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-zero" data-widget="text" data-preset="default" data-spacing="aasz">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_7">AngelVision News<br></p></div>
+</div><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="xs"><div class="container-fluid"><div class="row"><div class="moto-cell col-xs-3" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                                                                   moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10" style="text-align: right;">06/07/16</p></div>
+</div></div><div class="moto-cell col-xs-9" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                                                                    moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa" data-draggable-disabled="">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_11">AngelVision Announces New Emphasis to Enroll All Company’s Employees to Help Sell</p></div>
+</div><div data-widget-id="wid__button__58acdd886459e" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button" data-preset="default">
+    <a href="/mt-content/uploads/2016/08/angelvision-enrolling-team-6-7-16.pdf"   data-action="file" class="moto-widget-button-link moto-size-medium moto-link"
+         data-size="medium"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">READ</span></a>
+</div></div></div></div></div><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="xs"><div class="container-fluid"><div class="row"><div class="moto-cell col-xs-3" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                                                                   moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10" style="text-align: right;">02/01/16</p></div>
+</div></div><div class="moto-cell col-xs-9" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                                                                    moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_11">AngelVision Concludes Year-long Reorg: Slashes Overhead, Streamlines Operations,&nbsp;Cuts Costs</p></div>
+</div><div data-widget-id="wid__button__58acdd88647ab" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button" data-preset="default">
+    <a href="/mt-content/uploads/2016/08/angelvision-reorg-2-1-16.pdf"   data-action="file" class="moto-widget-button-link moto-size-medium moto-link"
+         data-size="medium"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">READ</span></a>
+</div></div></div></div></div><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="xs"><div class="container-fluid"><div class="row"><div class="moto-cell col-xs-3" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                                                                   moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10" style="text-align: right;">11/15/15</p></div>
+</div></div><div class="moto-cell col-xs-9" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                                                                    moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_11">AngelVision Releases Valuable Resources for Common Sales Activities &amp; Programs</p></div>
+</div><div data-widget-id="wid__button__58acdd886499f" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button" data-preset="default">
+    <a href="/mt-content/uploads/2016/08/angelvision-sales-resources-11-15-15.pdf"   data-action="file" class="moto-widget-button-link moto-size-medium moto-link"
+         data-size="medium"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">READ</span></a>
+</div></div></div></div></div><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="xs"><div class="container-fluid"><div class="row"><div class="moto-cell col-xs-3" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                                                                   moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10" style="text-align: right;">05/26/14</p></div>
+</div></div><div class="moto-cell col-xs-9" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                                                                    moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_11">AngelVision Releases Lead Generation Sales Kit to help Companies find Qualified Sales Leads</p></div>
+</div><div data-widget-id="wid__button__58acdd8864b84" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button" data-preset="default">
+    <a href="/mt-content/uploads/2015/12/angelvision-lead-gen-pkg-5-26-14.pdf"   data-action="file" class="moto-widget-button-link moto-size-medium moto-link"
+         data-size="medium"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">READ</span></a>
+</div></div></div></div></div><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="xs"><div class="container-fluid"><div class="row"><div class="moto-cell col-xs-3" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                                                                   moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10" style="text-align: right;">02/26/14<br></p></div>
+</div></div><div class="moto-cell col-xs-9" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                                                                    moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_11">AngelVision Leads Online Marketing with 51 Awards for 2013</p></div>
+</div><div data-widget-id="wid__button__58acdd8864d51" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button" data-preset="default">
+    <a href="/mt-content/uploads/2015/12/angelvision-51-awards-for-2013-2-26-14.pdf"   data-action="file" class="moto-widget-button-link moto-size-medium moto-link"
+         data-size="medium"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">READ</span></a>
+</div></div></div></div></div><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="xs"><div class="container-fluid"><div class="row"><div class="moto-cell col-xs-3" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                      moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10" style="text-align: right;">11/04/13<br></p></div>
+</div></div><div class="moto-cell col-xs-9" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                             moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_11">AngelVision Achieves Milestone with 1000th Success Stories from Customers</p></div>
+</div><div data-widget-id="wid__button__58acdd8864f2f" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button" data-preset="default">
+    <a href="/mt-content/uploads/2015/12/angelvision-1000-success-stories-11-4-13.pdf"   data-action="file" class="moto-widget-button-link moto-size-medium moto-link"
+         data-size="medium"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">READ</span></a>
+</div></div></div></div></div><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="xs"><div class="container-fluid"><div class="row"><div class="moto-cell col-xs-3" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                      moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10" style="text-align: right;">09/02/13<br></p></div>
+</div></div><div class="moto-cell col-xs-9" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                          moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_11">AngelVision Appears on Inc Magazine List of Fastest Growing Companies for 7th Year</p></div>
+</div><div data-widget-id="wid__button__58acdd88650fd" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button" data-preset="default">
+    <a href="/mt-content/uploads/2015/12/angelvision-inc-magazine-year-7-9-2-13.pdf"   data-action="file" class="moto-widget-button-link moto-size-medium moto-link"
+         data-size="medium"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">READ</span></a>
+</div></div></div></div></div><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="xs"><div class="container-fluid"><div class="row"><div class="moto-cell col-xs-3" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                       moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10" style="text-align: right;">09/20/12</p></div>
+</div></div><div class="moto-cell col-xs-9" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                        moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_11">AngelVision Appears on Inc Mag.&nbsp;List of Fastest Growing Companies for 6th Year</p></div>
+</div><div data-widget-id="wid__button__58acdd88652dd" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button" data-preset="default">
+    <a href="/mt-content/uploads/2015/12/angelvision-inc-magazine-year-6-9-20-12.pdf"   data-action="file" class="moto-widget-button-link moto-size-medium moto-link"
+         data-size="medium"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">READ</span></a>
+</div></div></div></div></div><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="xs"><div class="container-fluid"><div class="row"><div class="moto-cell col-xs-3" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                       moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10" style="text-align: right;">02/01/12</p></div>
+</div></div><div class="moto-cell col-xs-9" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                        moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_11">AngelVision Leads Industry with 54 Awards for Marketing in 2011</p></div>
+</div><div data-widget-id="wid__button__58acdd88654a4" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button" data-preset="default">
+    <a href="/mt-content/uploads/2015/12/angelvision-54-awards-for-2011-2-1-12.pdf"   data-action="file" class="moto-widget-button-link moto-size-medium moto-link"
+         data-size="medium"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">READ</span></a>
+</div></div></div></div></div><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="xs"><div class="container-fluid"><div class="row"><div class="moto-cell col-xs-3" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                       moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10" style="text-align: right;">09/26/11<br></p></div>
+</div></div><div class="moto-cell col-xs-9" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                        moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_11">Custom Books Named the “Perfect In-Booth Giveaway” by Exhibitor Magazine</p></div>
+</div><div data-widget-id="wid__button__58acdd886567f" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button" data-preset="default">
+    <a href="/mt-content/uploads/2015/12/angelvision-custom-books-best-exhibitor-mag-9-26-11.pdf"   data-action="file" class="moto-widget-button-link moto-size-medium moto-link"
+         data-size="medium"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">READ</span></a>
+</div></div></div></div></div><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="xs"><div class="container-fluid"><div class="row"><div class="moto-cell col-xs-3" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10" style="text-align: right;">07/01/11<br></p></div>
+</div></div><div class="moto-cell col-xs-9" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                 moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_11">Jingozian Honored as “Marketer of the Year” by American Marketing Association</p></div>
+</div><div data-widget-id="wid__button__58acdd8865848" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button" data-preset="default">
+    <a href="/mt-content/uploads/2015/12/angelvision-jingozian-ama-award-7-1-11.pdf"   data-action="file" class="moto-widget-button-link moto-size-medium moto-link"
+         data-size="medium"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">READ</span></a>
+</div></div></div></div></div><div class="moto-widget moto-widget-row" data-widget="row" data-grid-type="xs"><div class="container-fluid"><div class="row"><div class="moto-cell col-xs-3" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                         moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10" style="text-align: right;">03/15/10<br></p></div>
+</div></div><div class="moto-cell col-xs-9" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                          moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_11">AngelVision Again Rated One of the Best Companies to Work for in Oregon</p></div>
+</div><div data-widget-id="wid__button__58acdd8865a00" class="moto-widget moto-widget-button moto-preset-default moto-align-left moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto " data-widget="button" data-preset="default">
+    <a href="/mt-content/uploads/2015/12/angelvision-best-company-3-15-10.pdf"   data-action="file" class="moto-widget-button-link moto-size-medium moto-link"
+         data-size="medium"><span class="fa moto-widget-theme-icon"></span> <span class="moto-widget-button-label">READ</span></a>
+</div></div></div></div></div><div class="moto-widget moto-widget-divider moto-preset-default moto-align-left moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-zero moto-spacing-left-auto" data-widget="divider_horizontal" data-preset="default" data-spacing="maza" data-align='{"desktop":"left","tablet":"","mobile-v":"","mobile-h":""}' data-divider-type="horizontal" data-width="100">
+    <hr class="moto-widget-divider-line" style="width: 100%;">
+</div></div><div class="moto-cell col-sm-4" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                                                                                                       moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="masa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_7">CAREER&nbsp;OPPORTUNITIES</p></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default                                                                        moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aaaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_7">Looking for Great People<br></p></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default                                                                                                    moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10"><span style="color: rgb(11, 137, 203);">We will be very glad if you become a part of our team.</span></p></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default                                                                                                      moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_11">At AngelVision, our extraordinary experts live their passions. It shows in our commitment to quality and Customer service. We are always looking for talented and hard-working people who share our vision.</p><p><br></p><p class="moto-text_system_11">If you feel that you have what it takes to join our team, click here. We work hard, but we balance our workload with unbridled fun. Want to celebrate Festivus? Or Pirate Day? You’ll fit right in.<br></p><p><br></p><p class="moto-text_system_11">We don’t pigeonhole people with titles. If there isn’t a specific position listed for your special talents, let us know. We’d love to discuss what possibilities may exist for you at AngelVision.</p></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default                                                                       moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aaaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_7">Our Culture and Values<br></p></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default                                                                         moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="saaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10"><span style="color: rgb(13, 137, 202);">Our culture and business model attract great people. We are rated among the best companies to work for in Oregon. This helps us recruit and hire the finest, most talented people.</span></p><p><br></p><p class="moto-text_system_11">What’s more, happy employees make happy Customers. Our work environment creates highly functional teams that produce superior results for our Clients. Take a few moments and meet the people who make up your AngelVision team. Please feel free to contact us with questions or comments. We are always here to help.<br></p></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default                                                                       moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aaaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default                                                                         moto-spacing-top-small moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="sasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_7">Open Positions<br></p></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default                                                                       moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aaaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_10"><span style="color: rgb(8, 134, 200);">These are some of the current job opportunities that are available. Please send your resume and cover letter to <a href="mailto:Info@AngelVisionTech.com" data-action="mail">Info@AngelVisionTech.com</a>.<br></span></p></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default       wow fadeInRight moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="masa" data-animation="fadeInRight">
+    <div class="moto-widget-text-content moto-widget-text-editable"><ul style="margin-left: 40px;"><li class="moto-text_system_11"><span class="moto-color5_1"><span style="font-size: 14px;"><a class="moto-link" href="#" target="_self" data-action="url">Executive Assistant to the CEO</a></span></span></li><li class="moto-text_system_11"><span class="moto-color5_1"><span style="font-size: 14px;">Online Sales Specialist</span></span></li><li class="moto-text_system_11"><span class="moto-color5_1"><span style="font-size: 14px;">Business Development Director</span></span></li><li class="moto-text_system_11"><span class="moto-color5_1"><span style="font-size: 14px;">VP of Sales</span></span></li><li class="moto-text_system_11"><span class="moto-color5_1"><span style="font-size: 14px;">VP of Production</span></span></li><li class="moto-text_system_11"><span class="moto-color5_1"><span style="font-size: 14px;">Customer Service Reps</span></span></li><li class="moto-text_system_11"><span class="moto-color5_1"><span style="font-size: 14px;">Account Managers&nbsp;</span></span></li><li class="moto-text_system_11"><span class="moto-color5_1"><span style="font-size: 14px;">Graphic Designers</span></span></li><li class="moto-text_system_11"><span class="moto-color5_1"><span style="font-size: 14px;">PHP Programmers</span></span></li><li class="moto-text_system_11"><span class="moto-color5_1"><span style="font-size: 14px;">Web Media Developers</span></span><br></li><li class="moto-text_system_11"><span class="moto-color5_1"><span style="font-size: 14px;">Sales and Marketing Specialists</span></span></li><li class="moto-text_system_11"><span class="moto-color5_1"><span style="font-size: 14px;">Writing, Blogging</span></span></li><li class="moto-text_system_11"><span class="moto-color5_1"><span style="font-size: 14px;">Content Development</span></span></li></ul></div>
+</div><div class="moto-widget moto-widget-divider moto-preset-default moto-align-left moto-spacing-top-medium moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="divider_horizontal" data-preset="default" data-spacing="masa" data-align='{"desktop":"left","tablet":"","mobile-v":"","mobile-h":""}' data-divider-type="horizontal" data-width="100">
+    <hr class="moto-widget-divider-line" style="width: 100%;">
+</div></div></div></div></div>        </section>
+    </div>
+
+    <footer id="section-footer" class="footer moto-section" data-widget="section" data-container="section" data-moto-sticky="{mode:'smallHeight', direction:'bottom'}">
+        <div class="moto-widget moto-widget-container moto-container_footer_55ed9350" data-container="container" data-widget="container" data-css-name="moto-container_footer_55ed9350"><div class="moto-widget moto-widget-row row-fixed" data-widget="row"><div class="container-fluid"><div class="row"><div class="moto-cell col-sm-3" data-container="container"></div><div class="moto-cell col-sm-3" data-container="container"></div><div class="moto-cell col-sm-2" data-container="container"></div><div class="moto-cell col-sm-4" data-container="container"><div class="moto-widget moto-widget-text moto-preset-default                   moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="lasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_system_9"><span class="moto-color3_3">ANGELVISION TECHNOLOGIES, INC.</span></p><p class="moto-text_system_9"><span class="moto-color3_3">© 2016 | <a class="moto-link" href="/privacy-policy/" data-action="page" data-id="7" data-cke-saved-href="/privacy-policy/">PRIVACY POLICY</a></span></p></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default                 moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-small moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aasa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_normal"><span class="moto-color5_3">PO Box 1208</span></p><p class="moto-text_normal"><span class="moto-color5_3">Sherwood Oregon 97140</span></p><p class="moto-text_normal"><span class="moto-color5_3">Call or Text to: 503-799-4412</span><br></p></div>
+</div><div class="moto-widget moto-widget-text moto-preset-default               moto-spacing-top-auto moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="text" data-preset="default" data-spacing="aaaa">
+    <div class="moto-widget-text-content moto-widget-text-editable"><p class="moto-text_normal"><span class="moto-color5_3">E-mail: <a href="mailto:Info@AngelVisionTech.com" data-action="mail">Info@AngelVisionTech.com</a></span><br></p></div>
+</div></div></div></div></div><div class="moto-widget moto-widget-divider moto-preset-default moto-align-left moto-spacing-top-large moto-spacing-right-auto moto-spacing-bottom-auto moto-spacing-left-auto" data-widget="divider_horizontal" data-preset="default" data-spacing="laaa" data-align='{"desktop":"left","tablet":"","mobile-v":"","mobile-h":""}' data-divider-type="horizontal" data-width="0">
+    <hr class="moto-widget-divider-line" style="width: 0%;">
+</div></div>    </footer>
+
+ 
+    <div data-moto-back-to-top-button class="moto-back-to-top-button"></div>
+
+    
+        <script src="/mt-includes/js/website.assets.min.js?_build=1469956304" type="text/javascript" data-cfasync="false"></script>
+                <script type="text/javascript" data-cfasync="false">
+            var websiteConfig = websiteConfig || {};
+            websiteConfig.address = 'http://www.angelvisiontech.com/';
+            websiteConfig.apiUrl = '/api.php';
+            websiteConfig.preferredLanguage = 'en';
+                    websiteConfig.back_to_top_button = {"enabled":true,"topOffset":300,"animationTime":500};
+                </script>
+
+        <script src="/mt-includes/js/website.min.js?_build=1469956304" type="text/javascript" data-cfasync="false"></script>
+
+        <script type="text/javascript" data-cfasync="false">
+            angular.module('website.plugins', []);
+        </script>
+
+                
+    
+
+    
+
+    </body>
+</html>

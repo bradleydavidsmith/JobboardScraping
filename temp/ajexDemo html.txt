@@ -1,0 +1,26 @@
+<html><head>
+<title>Some JavaScript-loaded content</title>
+<script src="../js/jquery-2.1.1.min.js"></script>
+
+</head>
+<body>
+<div id="content">Here is some important text you want to retrieve! <p></p><button id="loadedButton">A button to click!</button></div>
+
+<script>
+$.ajax({
+    type: "GET",
+    url: "loadedContent.php",
+    success: function(response){
+
+	setTimeout(function() {
+	    $('#content').html(response);
+	}, 2000);
+    }
+  });
+
+function ajax_delay(str){
+ setTimeout("str",2000);
+}
+</script>
+
+</body></html>
